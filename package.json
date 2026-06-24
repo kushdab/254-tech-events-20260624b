@@ -1,0 +1,15 @@
+{
+  "name": "254-tech-events-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for East African tech events",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "axios": "^1.7.2"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
